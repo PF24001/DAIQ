@@ -1,0 +1,6 @@
+{
+  "name": "Cocktails Explorer",
+  "description": "An iOS-style, minimal, and modern dashboard to search, browse, and discover cocktail recipes using TheCocktailDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
