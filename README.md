@@ -2,14 +2,8 @@
 
 <br/>
 
-```
-██████╗  █████╗ ██╗ ██████╗ 
-██╔══██╗██╔══██╗██║██╔═══██╗
-██║  ██║███████║██║██║   ██║
-██║  ██║██╔══██║██║██║▄▄ ██║
-██████╔╝██║  ██║██║╚██████╔╝
-╚═════╝ ╚═╝  ╚═╝╚═╝ ╚══▀▀═╝ 
-```
+<img width="1904" height="918" alt="Captura de pantalla 2026-05-29 231324" src="https://github.com/user-attachments/assets/49ec2a19-70a1-4621-b8da-010849795ffc" />
+
 
 ### Cocktail Explorer · Powered by TheCocktailDB API
 
@@ -40,6 +34,9 @@ El proyecto fue desarrollado como demostración del dominio en:
 - 🔁 **Manejo de estados** con `useState` (datos, loading, error)
 - 🗂️ **Renderizado dinámico** con `.map()` y `key` única
 - 💾 **Persistencia local** de favoritos con `localStorage`
+
+<img width="1920" height="3769" alt="screencapture-localhost-3000-2026-05-29-23_12_44" src="https://github.com/user-attachments/assets/ef06737d-5237-4a7f-a84c-833f48ce4a5e" />
+
 
 ---
 
